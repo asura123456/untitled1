@@ -35,4 +35,4 @@ if __name__ =='__main__':
     if len(sys.argv)!=1:
         print("Usage:%s camera_id\r\n"%(sys.argv[0]))
     else:
-        CatchUsbVideo("识别人脸区域",0)
+        CatchUsbVideo("fac    e",0)
