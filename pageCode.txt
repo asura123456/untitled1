@@ -1,0 +1,1277 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-cn" lang="zh-cn">
+
+<head>
+    <script type="text/javascript">
+var siteurl='/';
+var tmplurl='/templates/qunlun_ji_0601/';
+var isRTL = false;
+</script>
+
+  <base href="http://tools.android-studio.org/index.php" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Android，ADT，Android开发工具，Android tools，Android SDK，Android API，Android SDK下载，Gradle，NDK，JDK下载，Gradle下载，Android Studio 2.0，Android Studio" />
+  <meta name="description" content="Android Developer Tools Download : 安卓开发工具包国内高速下载（百度网盘下载/收藏/用法/分享）SDK，ADT，NDK，SDK Tools，ADT Plugin，ADT Bundle，Android开发工具，Android tools，Android SDK，Android API，Android SDK下载，Gradle，NDK，JDK下载，Gradle下载" />
+  <meta name="generator" content="www.qunlunsoft.com" />
+  <title>Android Developer Tools Download : ADT/JDK/ Gradle/Android Studio 2.0下载</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link rel="stylesheet" href="/plugins/system/jatypo/jatypo/assets/style.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jatypo/jatypo/typo/typo.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jat3/jat3/base-themes/default/css/css3.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jat3/jat3/base-themes/default/css/addons.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jat3/jat3/base-themes/default/css/layout.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jat3/jat3/base-themes/default/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jat3/jat3/base-themes/default/css/usertools.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jat3/jat3/base-themes/default/css/menu/mega.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/qunlun_ji_0601/css/typo.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/qunlun_ji_0601/css/css3.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/qunlun_ji_0601/css/blog.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/qunlun_ji_0601/css/layout.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/qunlun_ji_0601/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/qunlun_ji_0601/css/menu/mega.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/qunlun_ji_0601/themes/day/css/typo.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/qunlun_ji_0601/themes/day/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/qunlun_ji_0601/themes/day/css/menu/mega.css" type="text/css" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/plugins/system/jatypo/jatypo/assets/script.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/plugins/system/jat3/jat3/base-themes/default/js/core.js" type="text/javascript"></script>
+  <script src="/plugins/system/jat3/jat3/base-themes/default/js/menu/mega.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+  </script>
+
+<!--[if ie]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 7]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 7]><link href="/templates/qunlun_ji_0601/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]--> 
+
+
+
+
+<link href="/plugins/system/jat3/jat3/base-themes/default/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    
+    <style type="text/css">
+/*dynamic css*/
+
+    body.bd .main {width: 960px;}
+    body.bd #ja-wrapper {min-width: 960px;}
+</style></head>
+
+<body id="bd" class="bd fs3 com_content">
+<a name="Top" id="Top"></a>
+<div id="ja-wrapper">
+
+
+                <div id="ja-topbar"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                <div id="ja-topbar-left">
+	
+
+<div class="custom"  >
+	<p>
+<a href="http://www.android-studio.org/index.php/contactus" target="_blank">联系我们</a>
+ | <a href="http://www.android-studio.org/index.php/aboutus" target="_blank">关于我们</a>
+
+</p>
+</div>
+
+</div>                </div>
+                            </div>
+                        </div>
+                        <div id="ja-header"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                <h1 class="logo">
+	<a href="/index.php" title="Android Developer Tools"><span>Android Developer Tools</span></a>
+</h1>
+
+<div id="ja-top" class="clearfix">
+	
+
+<div class="custom"  >
+	<pre><a href="https://dl.google.com/dl/android/studio/install/3.0.0.18/android-studio-ide-171.4408382-windows.exe" target="_blank">Android Studio 3.0 FOR WINDOWS (版本：3.0.0.18) <em>681 MB</em> Download</a></pre></div>
+
+</div>                </div>
+                            </div>
+                        </div>
+                        <div id="ja-mainnav"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                <div class="ja-megamenu clearfix" id="ja-megamenu">
+<ul class="megamenu level0"><li  class="mega first"><a href="http://www.android-studio.org" target="_blank"  class="mega first" id="menu518" title="Android"><span class="menu-title">Android</span></a></li><li  class="mega active"><a href="http://tools.android-studio.org/"  class="mega active" id="menu435" title="TOOLS"><span class="menu-title">TOOLS</span></a></li><li  class="mega"><a href="http://jdk.android-studio.org" target="_blank"  class="mega" id="menu539" title="JDK"><span class="menu-title">JDK</span></a></li><li  class="mega"><a href="/index.php/sdk"  class="mega" id="menu522" title="SDK"><span class="menu-title">SDK</span></a></li><li  class="mega"><a href="/index.php/adt-bundle-plugin"  class="mega" id="menu526" title="ADT"><span class="menu-title">ADT</span></a></li><li  class="mega"><a href="http://gradle.android-studio.org/" target="_blank"  class="mega" id="menu540" title="Gradle"><span class="menu-title">Gradle</span></a></li><li  class="mega"><a href="/index.php/proxy"  class="mega" id="menu521" title="镜像"><span class="menu-title">镜像</span></a></li><li  class="mega haschild"><a href="/index.php/notes"  class="mega haschild" id="menu525" title="版本"><span class="menu-title">版本</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="/index.php/notes/overview"  class="mega first" id="menu527" title="Android Studio Overview"><span class="menu-title">Android Studio Overview</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="http://ask.android-studio.org" target="_blank"  class="mega haschild" id="menu519" title="开发社区"><span class="menu-title">开发社区</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="http://ask.android-studio.org/?/article/9" target="_blank"  class="mega first" id="menu523" title="Android Studio 安装"><span class="menu-title">Android Studio 安装</span></a></li><li  class="mega"><a href="http://ask.android-studio.org/?/explore/category-studio" target="_blank"  class="mega" id="menu529" title="Android Studio 教程"><span class="menu-title">Android Studio 教程</span></a></li><li  class="mega"><a href="http://ask.android-studio.org/?/explore/category-video" target="_blank"  class="mega" id="menu524" title="Android Studio 视频"><span class="menu-title">Android Studio 视频</span></a></li><li  class="mega"><a href="http://ask.android-studio.org/?/explore/category-gradle" target="_blank"  class="mega" id="menu533" title="Gradle 教程"><span class="menu-title">Gradle 教程</span></a></li><li  class="mega"><a href="http://ask.android-studio.org/?/explore/category-wear" target="_blank"  class="mega" id="menu535" title="Android Wear 开发社区"><span class="menu-title">Android Wear 开发社区</span></a></li><li  class="mega"><a href="http://ask.android-studio.org/?/explore/category-tv" target="_blank"  class="mega" id="menu534" title="Android TV 开发社区"><span class="menu-title">Android TV 开发社区</span></a></li><li  class="mega last"><a href="http://ask.android-studio.org/?/explore/category-auto" target="_blank"  class="mega last" id="menu536" title="Android Auto 开发社区"><span class="menu-title">Android Auto 开发社区</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="http://ask.android-studio.org/?/explore/category-app" target="_blank"  class="mega haschild" id="menu537" title="系统平台"><span class="menu-title">系统平台</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="http://wear.android-studio.org" target="_blank"  class="mega first" id="menu530" title="Android Wear"><span class="menu-title">Android Wear</span></a></li></ul></div></div>
+</div></div></li><li  class="mega last haschild"><a href="http://ask.android-studio.org/?/topic/" target="_blank"  class="mega last haschild" id="menu538" title="专题讨论"><span class="menu-title">专题讨论</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="http://ask.android-studio.org/?/topic/Android+Wear" target="_blank"  class="mega first" id="menu531" title="Android Wear 开发专题"><span class="menu-title">Android Wear 开发专题</span></a></li></ul></div></div>
+</div></div></li></ul>
+</div>            <script type="text/javascript">
+                var megamenu = new jaMegaMenuMoo ('ja-megamenu', {
+                    'bgopacity': 0,
+                    'delayHide': 300,
+                    'slide'    : 0,
+                    'fading'   : 0,
+                    'direction': 'down',
+                    'action'   : 'mouseover',
+                    'tips'     : false,
+                    'duration' : 300,
+                    'hidestyle': 'fastwhenshow'
+                });
+            </script>
+            <!-- jdoc:include type="menu" level="0" / -->
+
+
+<ul class="no-display">
+    <li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+</ul>                </div>
+                            </div>
+                        </div>
+                        <div id="ja-topsl"
+            	class="wrap ">
+                        <div class="wrap-inner1">
+                         <div class="main clearfix">
+           <!-- SPOTLIGHT -->
+<div class="ja-box column ja-box-full" style="width: 100%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod161">
+						<h3><span>Android Studio 3.0.1 正式版下载</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<h2 class="norule" style="color: rgba(0, 0, 0, 0.87); clear: left; font-size: 28px; line-height: 32px; margin: 0px; padding: 12px 0px 16px; font-family: Roboto, sans-serif;">立即开始使用 Android Studio</h2>
+<p style="margin: 0px 0px 12px; color: rgba(0, 0, 0, 0.68); font-size: 14px;">Android Studio 包含用于构建 Android 应用所需的所有工具。</p>
+<div class="landing-button-wrap" style="float: left; margin-right: 40px; width: auto; color: rgba(0, 0, 0, 0.68); font-size: 14px;">
+<p style="margin: 0px 0px 12px;"><a class="landing-button green download-bundle-button" href="https://dl.google.com/dl/android/studio/install/3.0.1.0/android-studio-ide-171.4443003-windows.exe" style="color: #ffffff; background: #90c653; border: 0px; border-radius: 3px; box-sizing: border-box; cursor: pointer; display: inline-block; font-style: inherit; font-variant: inherit; font-family: inherit; letter-spacing: 0.5px; line-height: 18px; margin: 6px 16px 6px 0px; min-width: 88px; outline: 0px; padding: 12px 24px; position: relative; text-align: center; text-transform: uppercase; transition: box-shadow 0.4s cubic-bezier(0.25, 0.8, 0.25, 1), background-color 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); user-select: none; z-index: 1; box-shadow: rgba(0, 0, 0, 0.26) 0px 2px 5px;" data-modal-toggle="studio_tos">下载 <span>ANDROID STUDIO</span><br /><span class="small" style="font-size: 12px; opacity: 0.7;"><span class="version">3.0.1</span> <span>FOR WINDOWS</span> (683 MB)</span></a></p>
+</div>
+<div style="color: rgba(0, 0, 0, 0.68); font-size: 14px; float: left; width: auto; margin-bottom: 40px;">
+<ul class="nolist" style="margin: 8px 0px; padding: 0px; list-style: none; text-transform: uppercase;">
+<li style="margin: 0px 0px 12px;">版本：3.0.1.0</li>
+<li style="margin: 0px 0px 12px;">发布日期：NOVEMBER 20, 2017</li>
+</ul>
+</div>
+<h4 style="font-size: 18px; line-height: 24px; margin: 40px 0px 0px; padding: 4px 0px 8px; font-weight: 500; color: rgba(0, 0, 0, 0.68); font-family: Roboto, sans-serif; clear: left;">选择其他平台</h4>
+<table class="download" style="font-size: 14px; margin: 0.5em 1em 1em 0px; border-collapse: collapse; border-spacing: 0px; border: 0px; width: 880px; background-color: #f7f7f7; color: rgba(0, 0, 0, 0.68);">
+<tbody>
+<tr><th style="padding: 4px 12px; vertical-align: top; text-align: left; background-color: #999999; color: #ffffff; border: 1px solid #dddddd; font-weight: normal;">平台</th><th style="padding: 4px 12px; vertical-align: top; text-align: left; background-color: #999999; color: #ffffff; border: 1px solid #dddddd; font-weight: normal;">Android Studio 软件包</th><th style="padding: 4px 12px; vertical-align: top; text-align: left; background-color: #999999; color: #ffffff; border: 1px solid #dddddd; font-weight: normal;">大小</th><th style="padding: 4px 12px; vertical-align: top; text-align: left; background-color: #999999; color: #ffffff; border: 1px solid #dddddd; font-weight: normal;">SHA-256 校验和</th></tr>
+<tr>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;" rowspan="2">Windows<br style="margin-bottom: 0px;" />（64 位）</td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;"><a id="win-bundle" href="https://dl.google.com/dl/android/studio/install/3.0.1.0/android-studio-ide-171.4443003-windows.exe" style="color: #039be5;" data-modal-toggle="studio_tos">android-studio-ide-171.4443003-windows.exe</a><br style="margin-bottom: 0px;" />无 Android SDK</td>
+<td id="win-bundle-size" style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;" data-size="716684712">683 MB<br style="margin-bottom: 0px;" />(716,684,712 bytes)</td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;">1f71333fc8f31281b643a12d7f9d4c22e75ee7c14dc1faf00ce3d5291ef40bb0</td>
+</tr>
+<tr>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;"><a id="win-bundle-zip" href="https://dl.google.com/dl/android/studio/ide-zips/3.0.1.0/android-studio-ide-171.4443003-windows.zip" style="color: #039be5;" data-modal-toggle="studio_tos">android-studio-ide-171.4443003-windows.zip</a><br style="margin-bottom: 0px;" />无 Android SDK，无安装程序</td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;" data-size="775207909">739 MB<br style="margin-bottom: 0px;" />(775,207,909 bytes)</td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;">b9f73dd6d2159f226c5e507275c7a5e7cc38106fa0ee1189286675ccfc4a330e</td>
+</tr>
+<tr>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;">Windows<br style="margin-bottom: 0px;" />（32 位）</td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;"><a id="win32-bundle-zip" href="https://dl.google.com/dl/android/studio/ide-zips/3.0.1.0/android-studio-ide-171.4443003-windows32.zip" style="color: #039be5;" data-modal-toggle="studio_tos">android-studio-ide-171.4443003-windows32.zip</a><br style="margin-bottom: 0px;" />无 Android SDK，无安装程序</td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;" data-size="774678163">738 MB<br style="margin-bottom: 0px;" />(774,678,163 bytes)</td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;">cd644af01126a9d8cf372ada1f520579d443946e5cfa99e42234d539db59f842</td>
+</tr>
+<tr>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;">Mac</td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;"><a id="mac-bundle" href="https://dl.google.com/dl/android/studio/install/3.0.1.0/android-studio-ide-171.4443003-mac.dmg" style="color: #039be5; margin-bottom: 0px;" data-modal-toggle="studio_tos">android-studio-ide-171.4443003-mac.dmg</a></td>
+<td id="mac-bundle-size" style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;" data-size="774181959">738 MB<br style="margin-bottom: 0px;" />(774,181,959 bytes)</td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;">2c8a24ad2de21e8d1d77a748a35cc5ca47812d9f5e2a0865981e206073d1d981</td>
+</tr>
+<tr>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;">Linux</td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;"><a id="linux-bundle" href="https://dl.google.com/dl/android/studio/ide-zips/3.0.1.0/android-studio-ide-171.4443003-linux.zip" style="color: #039be5; margin-bottom: 0px;" data-modal-toggle="studio_tos">android-studio-ide-171.4443003-linux.zip</a></td>
+<td id="linux-bundle-size" style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;" data-size="773670325">737 MB<br style="margin-bottom: 0px;" />(773,670,325 bytes)</td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;">ad7110ed2ffc662b7a13efa5064390c8e8e74815d8c688351bd8829331852acf</td>
+</tr>
+</tbody>
+</table>
+<p style="margin: 0px 0px 12px; color: rgba(0, 0, 0, 0.68); font-size: 14px;">请参阅 <a href="http://ask.android-studio.org/?/question/1717" style="color: #039be5;">Android Studio 发行说明</a>。</p>
+<h4 class="norule" style="font-size: 18px; line-height: 24px; margin: 40px 0px 0px; padding: 4px 0px 8px; font-weight: 500; color: rgba(0, 0, 0, 0.68); font-family: Roboto, sans-serif;">仅获取命令行工具</h4>
+<p style="margin: 0px 0px 12px; color: rgba(0, 0, 0, 0.68); font-size: 14px;">如果您不需要 Android Studio，则可以从下面下载基本的 Android 命令行工具。您可以使用包含的 <a href="http://ask.android-studio.org/?/question/1718" target="_blank" title="SDKMANAGER"><code style="font-size: 13px; color: inherit; font-stretch: normal; line-height: 18px; font-family: Consolas, 'Liberation Mono', Menlo, Monaco, Courier, monospace; -webkit-font-smoothing: subpixel-antialiased;">sdkmanager</code> </a>下载其他 SDK 软件包。</p>
+<p style="margin: 0px 0px 12px; color: rgba(0, 0, 0, 0.68); font-size: 14px;">这些工具包含在 Android Studio 中。</p>
+<table class="download" style="font-size: 14px; margin: 0.5em 1em 1em 0px; border-collapse: collapse; border-spacing: 0px; border: 0px; width: 880px; background-color: #f7f7f7; color: rgba(0, 0, 0, 0.68);">
+<tbody>
+<tr><th style="padding: 4px 12px; vertical-align: top; text-align: left; background-color: #999999; color: #ffffff; border: 1px solid #dddddd; font-weight: normal;">平台</th><th style="padding: 4px 12px; vertical-align: top; text-align: left; background-color: #999999; color: #ffffff; border: 1px solid #dddddd; font-weight: normal;">SDK 工具包</th><th style="padding: 4px 12px; vertical-align: top; text-align: left; background-color: #999999; color: #ffffff; border: 1px solid #dddddd; font-weight: normal;">大小</th><th style="padding: 4px 12px; vertical-align: top; text-align: left; background-color: #999999; color: #ffffff; border: 1px solid #dddddd; font-weight: normal;">SHA-256 校验和</th></tr>
+<tr>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;">Windows</td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;"><a id="win-tools" href="https://dl.google.com/android/repository/sdk-tools-windows-3859397.zip" style="color: #039be5;" data-modal-toggle="studio_tos">sdk-tools-windows-3859397.zip</a></td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;" data-size="138449982">132 MB<br style="margin-bottom: 0px;" />(138,449,982 bytes)</td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;">7f6037d3a7d6789b4fdc06ee7af041e071e9860c51f66f7a4eb5913df9871fd2</td>
+</tr>
+<tr>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;">Mac</td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;"><a id="mac-tools" href="https://dl.google.com/android/repository/sdk-tools-darwin-3859397.zip" style="color: #039be5; margin-bottom: 0px;" data-modal-toggle="studio_tos">sdk-tools-darwin-3859397.zip</a></td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;" data-size="86182133">82 MB<br style="margin-bottom: 0px;" />(86,182,133 bytes)</td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;">4a81754a760fce88cba74d69c364b05b31c53d57b26f9f82355c61d5fe4b9df9</td>
+</tr>
+<tr>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;">Linux</td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;"><a id="linux-tools" href="https://dl.google.com/android/repository/sdk-tools-linux-3859397.zip" style="color: #039be5; margin-bottom: 0px;" data-modal-toggle="studio_tos">sdk-tools-linux-3859397.zip</a></td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;" data-size="136964098">130 MB<br style="margin-bottom: 0px;" />(136,964,098 bytes)</td>
+<td style="padding: 4px 12px; vertical-align: top; background-color: inherit; border: 1px solid #dddddd;">444e22ce8ca0f67353bda4b85175ed3731cae3ffa695ca18119cbacef1c1bea0</td>
+</tr>
+</tbody>
+</table>
+<p style="margin: 0px 0px 12px; color: rgba(0, 0, 0, 0.682353); font-family: Roboto, sans-serif; font-size: 14px;">请参阅 <a href="http://ask.android-studio.org/?/question/1242" style="color: #039be5;">SDK 工具发行说明</a>。</p>
+<p><a href="http://ask.android-studio.org/?/question/1008" target="_blank" title="Android Studio 2.0"><span class="ja-typo-tag tag-rounded tag-green">Android Studio 2.0 视频介绍</span></a> | <a href="http://www.android-studio.org/index.php/download/androidstudio-download-baidudisk/181-android-studio-2-08" target="_blank" title="Android Studio 2.0"><span class="ja-typo-tag tag-rounded tag-green">Android Studio 2.0 网盘下载</span></a> | <a href="http://ask.android-studio.org/?/article/9" target="_blank" title="Android Studio 1.0 安装教程"><span class="ja-typo-tag tag-rounded tag-green">安装教程</span></a> | <a href="http://www.android-studio.org/index.php/download/about-androidstudio" target="_blank" title="Android Studio 1.0 安装教程"><span class="ja-typo-tag tag-rounded tag-green">官方介绍</span></a> | <a href="http://www.android-studio.org/index.php/team/news/180-android-studio-2-0" target="_blank" title="Android Studio 2.0 特性"><span class="ja-typo-tag tag-rounded tag-green">2.0 特性</span></a></p></div>
+		</div>
+    </div>
+	
+</div>
+<!-- SPOTLIGHT -->
+
+<script type="text/javascript">
+    window.addEvent('load', function (){ equalHeight ('#ja-topsl .ja-box') });
+</script>            </div>
+                            </div>
+                            </div>
+            
+    <!-- MAIN CONTAINER -->
+    <div id="ja-container" class="wrap ja-mf">
+               <div class="main clearfix">
+                   <div id="ja-mainbody" style="width:100%">
+            <!-- CONTENT -->
+            <div id="ja-main" style="width:100%">
+            <div class="inner clearfix">
+
+                
+<div id="system-message-container">
+</div>
+                
+                <div id="ja-contentwrap" class="clearfix ">
+                    <div id="ja-content" class="column" style="width:100%">
+                        <div id="ja-current-content" class="column" style="width:100%">
+                            
+                                                        <div id="ja-content-main" class="ja-content-main clearfix">
+                                <div class="blog-featured">
+<div class="blog-page">
+
+	
+	
+		<div class="items-row cols-1 row-0 clearfix">
+				<div class="item column-1">
+			<div class="contentpaneopen clearfix">
+			
+	<h2 class="contentheading">
+					<a href="/index.php/85-tools/109-android-tools-download">
+			Android Tools Download - 百度网盘下载/收藏/分享</a>
+					</h2>
+
+<span class="content_rating">用户评价：&#160;<img src="/media/system/images/rating_star.png" alt=""  /><img src="/media/system/images/rating_star.png" alt=""  /><img src="/media/system/images/rating_star.png" alt=""  /><img src="/media/system/images/rating_star.png" alt=""  /><img src="/media/system/images/rating_star.png" alt=""  />&#160;/&#160;221</span>
+<br />
+<div class="article-tools clearfix">
+ <dl class="article-info">
+  		<dd class="modified">
+		最后更新于 2016年11月06日		</dd>
+ 		<dd class="hits">
+		点击数：195338		</dd>
+ </dl>
+</div>
+
+<pre>感谢：inferjay等人所做的资料整理</pre>
+<h1>Android Studio</h1>
+<p><a href="http://ask.android-studio.org/?/explore/category-studio" target="_blank"><span class="ja-typo-tag tag-rounded tag-blue" style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px;"> 使用说明 </span></a></p>
+<table>
+<thead>
+<tr><th align="center">版本号</th><th align="center">Windows</th><th align="center">Mac OSX</th><th align="center">Linux</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><span class="ja-typo-tag tag-orange">2.0 正式版</span></td>
+<td align="center"><a href="http://pan.baidu.com/s/1qYVc6kc" target="_blank">BUNDLE</a> <a href="http://pan.baidu.com/s/1jIyKHjK" target="_blank">EXE</a> <a href="http://pan.baidu.com/s/1mi1y2GK" target="_blank">ZIP</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1c2LkV0O" target="_blank">MAC</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1o83woYI" target="_blank">LINUX</a></td>
+</tr>
+<tr>
+<td align="center">2.0 preview9</td>
+<td align="center"><a href="http://pan.baidu.com/s/1hruE6oc" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1dEe521b" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1bwmFsM" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">2.0 preview4</td>
+<td align="center"><a href="http://pan.baidu.com/s/1gdYPRfd" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1hrd7ADY" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1pJZp6pd" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">2.0 preview</td>
+<td align="center"><a href="http://pan.baidu.com/s/1C406E" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1gdoDJEF" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1iIloq" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center"><span class="ja-typo-tag tag-orange">1.5 正式版</span></td>
+<td align="center"><a href="http://pan.baidu.com/s/1kTMvy7P" target="_blank">EXE BUNDLE</a> | <a href="http://pan.baidu.com/s/1dDobJpR" target="_blank">EXE</a> | <a href="http://pan.baidu.com/s/1gdmBHR1" target="_blank">ZIP</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1dDHNXVr" target="_blank">ZIP</a> <a href="http://pan.baidu.com/s/1gdK1GoN" target="_blank">DMG</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1hqCYjCo" target="_blank">LINUX</a></td>
+</tr>
+<tr>
+<td align="center">1.4 RC1</td>
+<td align="center"><a href="http://pan.baidu.com/s/1nttM9Hv" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1c0fRJ0W" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1ntzmkf3" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">1.4 Beta</td>
+<td align="center"><a href="http://pan.baidu.com/s/1eQAVL1S" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1dD4SjnV" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1i3ET2rN" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">1.3 Beta</td>
+<td align="center"><a href="http://pan.baidu.com/s/1qWQe58S" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1sjxCjZv" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1c0nTvyS" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">1.2正式版</td>
+<td align="center"><a href="http://pan.baidu.com/s/1mgrEwkw" target="_blank">(SDK)EXE</a> | <a href="http://pan.baidu.com/s/1pJDmUhX" target="_blank">ZIP</a> | <a href="http://pan.baidu.com/s/1jGFyY4u" target="_blank">EXE</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1bnbHCQF" target="_blank">dmg</a> <a href="http://pan.baidu.com/s/1pJupZzd" target="_blank">zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1i3xkc7N" target="_blank">zip</a></td>
+</tr>
+<tr>
+<td align="center">1.1正式版</td>
+<td align="center"><a href="http://pan.baidu.com/s/1eQALnJs" target="_blank">(SDK)EXE</a> <a href="http://pan.baidu.com/s/1i3xNQHR" target="_blank">ZIP</a> <a href="http://pan.baidu.com/s/1c0pQ6g4" target="_blank">EXE</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1c0k0PG0" target="_blank">dmg</a> | <a href="http://pan.baidu.com/s/1ntiMCat" target="_blank">zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1gds2pSR" target="_blank">zip</a></td>
+</tr>
+<tr>
+<td align="center">1.1 Beta2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1i3y2xbJ" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1rpgXw" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1bngxIXL" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">1.1 Beta1</td>
+<td align="center"><a href="http://pan.baidu.com/s/1ntJYTCl" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1kT65Qjt" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1dbYqi" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">1.1 Preview2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1i3Dv5ul" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1jGknlNw" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1jG9VGgA" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">1.1 Preview1</td>
+<td align="center"><a href="http://pan.baidu.com/s/1nt9P6LN" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1i3tcEEh" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1o6n2Rmq" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">1.0.2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1hqu0Ed2" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1dD5wg4D" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1mg1KdE4" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">1.0.1</td>
+<td align="center"><a href="http://pan.baidu.com/s/1gd3WjGf" target="_blank">含SDK安装版</a> | <a href="http://pan.baidu.com/s/1pnmb0" target="_blank">不含SDK安装版</a> | <a href="http://pan.baidu.com/s/1eQgX8Sa" target="_blank">不含SDK非安装版</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1bnctWOf" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1hqiVv9a" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">1.0</td>
+<td align="center"><a href="http://pan.baidu.com/s/1o69fUZ4" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1pJyo8aR" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1dDs3r6x" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">1.0&amp;SDK</td>
+<td align="center"><a href="http://pan.baidu.com/s/1o6BNTLC" target="_blank">下载</a></td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">1.0RC</td>
+<td align="center"><a href="http://pan.baidu.com/s/1qWx6ivE" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1c0s4XWk" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1kT3Mc1x" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.9.3</td>
+<td align="center"><a href="http://pan.baidu.com/s/1gdzk0i3" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1pJI6ZoB" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1lN0hK" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.9.2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1sjFffLb" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1ntA34xz" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1eQhB6Ky" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.9.1</td>
+<td align="center"><a href="http://pan.baidu.com/s/1pJyUhyr" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1eQ080Sy" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1dDIRuhV" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.9.0</td>
+<td align="center"><a href="http://pan.baidu.com/s/1pJp0IU3" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1hJGK2" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1qWPW2x2" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.8.14</td>
+<td align="center"><a href="http://pan.baidu.com/s/1i3DZ3NJ" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1pJFjgzL" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1plmN0" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.8.13</td>
+<td align="center"><a href="http://pan.baidu.com/s/1jGDr2Vc" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1k17iA" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1eQIjtZ0" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.8.12</td>
+<td align="center"><a href="http://pan.baidu.com/s/1kTFXsMV" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1bndDUKR" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1ntn2TE5" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.8.11</td>
+<td align="center"><a href="http://pan.baidu.com/s/1jGpAUcY" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1i3y0yZr" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1qWJkUwk" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.8.10</td>
+<td align="center"><a href="http://pan.baidu.com/s/1kTMIQOZ" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1i39pMex" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1eQ7ZX6q" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.8.9</td>
+<td align="center"><a href="http://pan.baidu.com/s/1qW2UenU" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1bnxURW7" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1mg1GraC" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.8.8</td>
+<td align="center"><a href="http://pan.baidu.com/s/1i3sYTOp" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1eQGLElO" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1sjBF2Gl" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.8.7</td>
+<td align="center"><a href="http://pan.baidu.com/s/1jGoTikA" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/14I7EY" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1i3FZ8yh" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.8.6</td>
+<td align="center"><a href="http://pan.baidu.com/s/1qWseqG8" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1kT2xSWn" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1qWFKQJi" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.8.5</td>
+<td align="center"><a href="http://pan.baidu.com/s/1kTso6Ej" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1gdkpkD9" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1hq45Uok" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.8.4</td>
+<td align="center"><a href="http://pan.baidu.com/s/1bn5wesf" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1c0lbnc0" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1hqy0pwS" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.8.3</td>
+<td align="center"><a href="http://pan.baidu.com/s/1mg0tZcO" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1i3LyPnR" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1mgE7gYO" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.8.2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1gdtI9xx" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1o65FC1s" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1pJluNbl" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.8.2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1gdtI9xx" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1o65FC1s" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1pJluNbl" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.8.1</td>
+<td align="center"><a href="http://pan.baidu.com/s/1o6x8eMI" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1gd7pOHX" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1bngZ6qj" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.8.0</td>
+<td align="center"><a href="http://pan.baidu.com/s/1qWwObbI" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1hq7TJPq" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/18fUyE" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.6.1</td>
+<td align="center"><a href="http://pan.baidu.com/s/1CPBKM" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1o6LUDya" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1dDd7DG9" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.6.0</td>
+<td align="center"><a href="http://pan.baidu.com/s/1o6C1ngY" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1dDvi8dr" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1jGgLppO" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.5.9</td>
+<td align="center"><a href="http://pan.baidu.com/s/1hqy0pYO" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1bn2ElcF" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1mgBPtry" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="center">0.5.8</td>
+<td align="center"><a href="http://pan.baidu.com/s/1hqrEEhQ" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1jGBTuF8" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1o3elK" target="_blank">下载</a></td>
+</tr>
+</tbody>
+</table>
+<!-- Gradle -->
+<h1>Gradle</h1>
+<p><a href="http://ask.android-studio.org/?/explore/category-gradle" target="_blank"><span class="ja-typo-tag tag-rounded tag-blue" style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px;"> 使用说明 </span></a></p>
+<table>
+<thead>
+<tr><th align="left">版本号</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1kUCal0N" target="_blank"><span class="ja-typo-tag tag-orange">gradle-3.0-all.zip</span></a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1gfhWyTP" target="_blank">gradle-2.14-all.zip&gt;</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1dFMCb0d" target="_blank">gradle-2.13-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1mi6OG3I" target="_blank">gradle-2.12-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1dEPdCXV" target="_blank">gradle-2.11-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1qXZ6fww" target="_blank">gradle-2.10-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1hrhNoTe" target="_blank">gradle-2.9-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1gelTapl" target="_blank">gradle-2.8-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1skvbXWL" target="_blank">gradle-2.7-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1kTR2cSJ" target="_blank">gradle-2.6-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1gdL4G2v" target="_blank">gradle-2.5-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1kTgSVUv" target="_blank">gradle-2.4-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1eQtUwim" target="_blank">gradle-2.3-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1sjqK7X7" target="_blank">gradle-2.2.1-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1mgHZeyc" target="_blank">gradle-2.2-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1gdd5Khd" target="_blank">gradle-2.1-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1sj39LVn" target="_blank">gradle-2.0-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1mgkKWD6" target="_blank">gradle-1.12-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/14cnb4" target="_blank">gradle-1.11-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1o6LoFSA" target="_blank">gradle-1.10-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1o6qM0XW" target="_blank">gradle-1.9-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1gdmqZkR" target="_blank">gradle-1.8-all.zip</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1qWBHhXM" target="_blank">gradle-1.7-all.zip</a></td>
+</tr>
+</tbody>
+</table>
+<!-- JDK -->
+<h1>JDK</h1>
+<p><a href="http://ask.android-studio.org/?/question/237" target="_blank"><span class="ja-typo-tag tag-rounded tag-blue" style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px;"> 使用说明 </span></a></p>
+<table>
+<thead>
+<tr><th align="center">版本号</th><th align="center">Windows</th><th align="center">Mac OSX</th><th align="center">Linux</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1.8 u77</td>
+<td align="center"><a href="http://pan.baidu.com/s/1hsvvOFU" target="_blank">32位</a>/<a href="http://pan.baidu.com/s/1hr8COlQ" target="_blank">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1jHHwk9C" target="_blank">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1dF8ZhIT" target="_blank">32bits-rpm</a>/<a href="http://pan.baidu.com/s/1dEAeOMH" target="_blank">32bits-tar</a>, <a href="http://pan.baidu.com/s/1cr4say" target="_blank">64bits-rpm</a>/<a href="http://pan.baidu.com/s/1bo5zmDh" target="_blank">64bits-tar</a></td>
+</tr>
+<tr>
+<td align="center">1.8 u74</td>
+<td align="center"><a href="http://pan.baidu.com/s/1pLQpHqF" target="_blank">32位</a>/<a href="http://pan.baidu.com/s/1kUDqyUV" target="_blank">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1c2sgltm" target="_blank">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1eRAIJS2" target="_blank">32bits-rpm</a>/<a href="http://pan.baidu.com/s/1gfPkfj9" target="_blank">32bits-tar</a>, <a href="http://pan.baidu.com/s/1hrMkapQ" target="_blank">64bits-rpm</a>/<a href="http://pan.baidu.com/s/1mivnFK0" target="_blank">64bits-tar</a></td>
+</tr>
+<tr>
+<td align="center">1.8 u5</td>
+<td align="center"><a href="http://pan.baidu.com/s/1jG0ycMa" target="_blank">32位</a>/<a href="http://pan.baidu.com/s/1kTJYRXH" target="_blank">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1sj592Lf" target="_blank">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1i3l7byH" target="_blank">rpm</a>/<a href="http://pan.baidu.com/s/1i3l7byH" target="_blank">tar</a></td>
+</tr>
+<tr>
+<td align="center">1.7 u60</td>
+<td align="center"><a href="http://pan.baidu.com/s/1i33hUPf" target="_blank">32位</a>/<a href="http://pan.baidu.com/s/1qWpw4EC" target="_blank">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1c0AdKty" target="_blank">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1bnAfM4R" target="_blank">rpm</a>/<a href="http://pan.baidu.com/s/1bncVJzD" target="_blank">tar</a></td>
+</tr>
+<tr>
+<td align="center">1.6 u45</td>
+<td align="center"><a href="http://pan.baidu.com/s/1c0s2NHQ" target="_blank">32位</a>/<a href="http://pan.baidu.com/s/1bnpgZnh" target="_blank">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1jJxtc" target="_blank">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1c06FWre" target="_blank">32位</a>/<a href="http://pan.baidu.com/s/191Rye" target="_blank">64位</a></td>
+</tr>
+</tbody>
+</table>
+<!-- ADT Bundle -->
+<h1><span style="font-size: 1em; font-weight: bold; line-height: 1.3em;">ADT Bundle </span></h1>
+<p><a href="http://ask.android-studio.org/?/question/225" target="_blank"><span class="ja-typo-tag tag-rounded tag-blue" style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px;"> 使用说明 </span></a></p>
+<p>ADT Bundle包含了Eclipse、ADT插件和SDK Tools，是已经集成好的IDE，只需安装好Jdk即可开始开发，推荐初学者下载ADT Bundle，不用再折腾开发环境。</p>
+<table>
+<thead>
+<tr><th align="center">版本号</th><th align="center">Windows</th><th align="center">Mac OSX</th><th align="center">Linux</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">23.0.2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1o8fIC0i">32位</a>/<a href="http://pan.baidu.com/s/1eRGq1nc">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1c438Do">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1eQIhivw">32位</a>/<a href="http://pan.baidu.com/s/1o6E3a4q">64位</a></td>
+</tr>
+<tr>
+<td align="center">23.0.0</td>
+<td align="center"><a href="http://pan.baidu.com/s/1nv2LmDr">32位</a>/<a href="http://pan.baidu.com/s/1pLtTIzh">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1o872RyE">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1o6FOXmi">32位</a>/<a href="http://pan.baidu.com/s/1kTKENtX">64位</a></td>
+</tr>
+</tbody>
+</table>
+<h1>ADT Plugin</h1>
+<p><a href="http://ask.android-studio.org/?/question/226" target="_blank"><span class="ja-typo-tag tag-rounded tag-blue" style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px;"> 使用说明 </span></a></p>
+<p>将http://dl.google.com/android/ADT-xx.x.x.zip地址里的ADT-XX.X.X部分替换为要下载的ADT版本号，ADT版本号可以在Android SDK Manager里识别，例如：ADT- 23.0.0</p>
+<table>
+<thead>
+<tr><th align="center">版本号</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="http://pan.baidu.com/s/1hqtivf2" target="_blank"><span class="ja-typo-tag tag-orange">ADT-23.0.6</span></a></td>
+</tr>
+<tr>
+<td align="center"><a href="http://pan.baidu.com/s/1qWPq5vY" target="_blank">ADT-23.0.4</a></td>
+</tr>
+<tr>
+<td align="center"><a href="http://pan.baidu.com/s/1nt2tNCX" target="_blank">ADT-23.0.3</a></td>
+</tr>
+<tr>
+<td align="center"><a href="http://pan.baidu.com/s/1hqJyYBa" target="_blank">ADT-23.0.2</a></td>
+</tr>
+<tr>
+<td align="center"><a href="http://pan.baidu.com/s/1o6NW394" target="_blank">ADT-23.0.0</a></td>
+</tr>
+<tr>
+<td align="center"><a href="http://pan.baidu.com/s/1gdmqYGF" target="_blank">ADT-22.6.3</a></td>
+</tr>
+<tr>
+<td align="center"><a href="http://pan.baidu.com/s/1gdd38Gz" target="_blank">AdT-22.6.1</a></td>
+</tr>
+</tbody>
+</table>
+<h1>SDK Tools</h1>
+<p><a href="http://ask.android-studio.org/?/question/227" target="_blank"><span class="ja-typo-tag tag-rounded tag-blue" style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px;"> 使用说明 </span></a></p>
+<table>
+<thead>
+<tr><th align="center">版本号</th><th align="center">Windows</th><th align="center">Mac OSX</th><th align="center">Linux</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><span class="ja-typo-tag tag-orange">android sdk r24.4.1</span></td>
+<td align="center"><a href="http://pan.baidu.com/s/1hsI5Yao" target="_blank">installer_r24.4.1-windows.exe</a>/<a href="http://pan.baidu.com/s/1dELdImd" target="_blank">android-sdk_r24.4.1-windows.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1boYEY6N" target="_blank">android-sdk_r24.4.1-macosx.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1mhTCTja" target="_blank">android-sdk_r24.4.1-linux.tgz</a></td>
+</tr>
+<tr>
+<td align="center">sdk-tools-r24.3.4</td>
+<td align="center"><a href="http://pan.baidu.com/s/1mgD1sl6" target="_blank">installer_r24.3.4-windows.exe</a>/<a href="http://pan.baidu.com/s/1c0XMecg" target="_blank">android-sdk_r24.3.4-windows.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1c0AtUQ8" target="_blank">android-sdk_r24.3.4-macosx.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1i3gx3I9" target="_blank">android-sdk_r24.3.4-linux.tgz</a></td>
+</tr>
+<tr>
+<td align="center">sdk-tools-r24.3.2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1qWn4v5E" target="_blank">installer_r24.3.2-windows.exe</a>/<a href="http://pan.baidu.com/s/1eQfbpmU" target="_blank">android-sdk_r24.3.2-windows.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1sjIA1Xj" target="_blank">android-sdk_r24.3.2-macosx.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1pJFqDLp" target="_blank">android-sdk_r24.3.2-linux.tgz</a></td>
+</tr>
+<tr>
+<td align="center">sdk-tools-r24.2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1o6IG7TS" target="_blank">installer_r24.2-windows.exe</a>/<a href="http://pan.baidu.com/s/1pJOel1D" target="_blank">android-sdk_r24.2-windows.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1i3gXa8t" target="_blank">android-sdk_r24.2-macosx.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1mg25A9i" target="_blank">android-sdk_r24.2-linux.tgz</a></td>
+</tr>
+<tr>
+<td align="center">sdk-tools-r24.1.2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1kTKKzTP">installer_r24.1.2-windows.exe</a>/<a href="http://pan.baidu.com/s/1pJLsmpl" target="_blank">android-sdk_r24.1.2-windows.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1gdGOQTt">android-sdk_r24.1.2-macosx.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1sjMAc37">android-sdk_r24.1.2-linux.tgz</a></td>
+</tr>
+<tr>
+<td align="center">sdk-tools-r24.0.2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1i3swIUh" target="_blank">installer_r24.0.2-windows.exe</a>/<a href="http://pan.baidu.com/s/1mgwsMHq" target="_blank">android-sdk_r24.0.2-windows.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1rpgYy" target="_blank">android-sdk_r24.0.2-macosx.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1bnjL2iV" target="_blank">android-sdk_r24.0.2-linux.tgz</a></td>
+</tr>
+<tr>
+<td align="center">sdk-tools-r24.0.1</td>
+<td align="center"><a href="http://pan.baidu.com/s/1pJsk55p" target="_blank">installer_r24.0.1-windows.exe</a>/<a href="http://pan.baidu.com/s/1jGDZ02M" target="_blank">android-sdk_r24.0.1-windows.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1sj5DC53" target="_blank">android-sdk_r24.0.1-macosx.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1i3rGMod" target="_blank">android-sdk_r24.0.1-linux.tgz</a></td>
+</tr>
+<tr>
+<td align="center">sdk-tools-r24</td>
+<td align="center"><a href="http://pan.baidu.com/s/1bncYrUn" target="_blank">installer_r24-windows.exe</a>/<a href="http://pan.baidu.com/s/1mgwsMHq" target="_blank">android-sdk_r24-windows.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1gd6CuMB" target="_blank">android-sdk_r24-macosx.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1gdeSbIV" target="_blank">android-sdk_r24-linux.tgz</a></td>
+</tr>
+<tr>
+<td align="center">sdk-tools-r23.0.2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1c0H5q16" target="_blank">installer_r23.0.2-windows.exe</a>/<a href="http://pan.baidu.com/s/1dDvO7qp" target="_blank">android-sdk_r23.0.2-windows.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1qWsKq08" target="_blank">android-sdk_r23.0.2-macosx.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1gd04jR1" target="_blank">android-sdk_r23.0.2-linux.tgz</a></td>
+</tr>
+<tr>
+<td align="center">sdk-tools-r23</td>
+<td align="center"><a href="http://pan.baidu.com/s/1mgLsI2O" target="_blank">installer_r23-windows.exe</a>/<a href="http://pan.baidu.com/s/1gdvKzYF" target="_blank">android-sdk_r23-windows.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1sj6VwZV" target="_blank">android-sdk_r23-macosx.zip</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1kTA51mZ" target="_blank">android-sdk_r23-linux.tgz</a></td>
+</tr>
+</tbody>
+</table>
+<h1>SDK</h1>
+<p><a href="http://ask.android-studio.org/?/question/228" target="_blank"><span class="ja-typo-tag tag-rounded tag-blue" style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px;"> 使用说明 </span></a></p>
+<p>这是Android开发所需的sdk，下载并解压后，将解压出的整个文件夹复制或者移动到<code>your sdk 路径/platforms</code>文件夹，然后打开SDK Manager，打开 <code>Tools(工具)</code>菜单选择<code>Options(选项)</code>菜单项打开 Android SDK Manager Setting对话 框，点击<code>Clear Cache(清除缓存)</code>按钮，然 后重启Eclipse(或Android Studio)和SDK Manager。</p>
+<table>
+<thead>
+<tr><th align="left">系统版本号</th><th align="center">Windows</th><th align="center">Mac OSX</th><th align="center">Linux</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">android 5.0</td>
+<td align="center"><a href="http://pan.baidu.com/s/1pJLULXh" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1bnvULVD" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1bnvULVD" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="left">android L Rev3</td>
+<td align="center"><a href="http://pan.baidu.com/s/1c0y8y7u" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1ntjwWgp" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1gdEHt9T" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="left">android L</td>
+<td align="center"><a href="http://pan.baidu.com/s/1pJuOBJt" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1qWwi1S4" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1bnldFLd" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="left">android 4.4W</td>
+<td align="center"><a href="http://pan.baidu.com/s/1bnlJGab" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1o60qqAA" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1pJiDuqf" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="left">android 4.4.2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1kTkhzCz" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1ntxA4Et" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1mg1au8o" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="left">android 4.3</td>
+<td align="center"><a href="http://pan.baidu.com/s/1bncWhHl" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1sjwg1XF" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1ntI9oRf" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="left">android 4.2.2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1eQH1A4i" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1rlvJo" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1i35knWD" target="_blank">下载</a></td>
+</tr>
+</tbody>
+</table>
+<h1>SDK System images</h1>
+<p><a href="http://ask.android-studio.org/?/question/229" target="_blank"><span class="ja-typo-tag tag-rounded tag-blue" style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px;"> 使用说明 </span></a></p>
+<p>这是在创建模拟器时需要的system image，也就是在创建模拟器时<code>CPU/ABI</code>项需要选择的，下载并解压后，将解压出的整个文件夹复制或者移动到 <code>your sdk 路径/system-images</code>文件夹下即可， 如果没有 <code>system-images</code>目录就先 创建此文件夹，然后打开SDK Manager，打开<code>Tools(工 具)</code>菜单选择<code>Options(选项)</code>菜单项打开Android SDK Manager Setting对话框，点击<code>Clear Cache(清除缓存)</code> 按钮，然后重启Eclipse( 或Android Studio)和SDK Manager。</p>
+<table>
+<thead>
+<tr><th align="left">系统版本号</th><th align="center">Windows</th><th align="center">Mac OSX</th><th align="center">Linux</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">android 5.0</td>
+<td align="center"><a href="http://pan.baidu.com/s/1mg3Ny5M" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1nttCabn" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1nttCabn" target="_blank">下载</a></td>
+</tr>
+<tr>
+<td align="left">android L</td>
+<td align="center"><a href="http://pan.baidu.com/s/1gdIfgUB" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1kTr87wN" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1kTr87wN" target="_blank">下载</a></td>
+</tr>
+</tbody>
+</table>
+<h1>GoogleMap APIs SDK</h1>
+<p><a href="http://ask.android-studio.org/?/question/231" target="_blank"><span class="ja-typo-tag tag-rounded tag-blue" style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px;"> 使用说明 </span></a></p>
+<p>这是GoogleMap APIs SDK，下载并解压后，将解压出的整个文件夹复制或者移动到<code>your sdk 路径/add-ons</code>文件夹下，然后打开SDK Manager，打开 <code>Tools(工具)</code>菜单选择<code>Options(选项)</code>菜单项打开 Android SDK Manager Setting对话框 ，点击<code>Clear Cache(清除缓存)</code>按钮，然 后重启Eclipse(或Android Studio)和SDK Manager。</p>
+<table>
+<thead>
+<tr><th align="left">系统版本号</th><th align="center">Windows</th><th align="center">Mac OSX</th><th align="center">Linux</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">android 4.4.2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1gd5nQV5" target="_blank">下载ARM版</a>/<a href="http://pan.baidu.com/s/1qWt0pyO" target="_blank">下载x86版</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1c0kvnxQ" target="_blank">下载ARM版</a>/<a href="http://pan.baidu.com/s/1kTp6ETh" target="_blank">下载x86版</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1c0kvnxQ" target="_blank">下载ARM版</a>/<a href="http://pan.baidu.com/s/1kTp6ETh" target="_blank">下载x86版</a></td>
+</tr>
+</tbody>
+</table>
+<h1>Google Glass SDK</h1>
+<p><a href="http://ask.android-studio.org/?/question/232" target="_blank"><span class="ja-typo-tag tag-rounded tag-blue" style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px;"> 使用说明 </span></a></p>
+<p>这是GDK，下载并解压后，将解压出的整个文件夹复制或者移动到<code>your sdk 路径/add-ons</code>文件夹下，然后打开SDK Manager，打开<code>Tools(工 具)</code>菜单选择<code>Options(选项)</code>菜单项打开Android SDK Manager Setting对话框，点击 <code>Clear Cache(清除缓存)</code>按钮，然后重启Eclipse(或 Android Studio)和SDK Manager。</p>
+<table>
+<thead>
+<tr><th align="left">系统版本</th><th align="center">Windows</th><th align="center">Mac OSX</th><th align="center">Linux</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">android 4.4.2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1pJ19KDH" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1ANL6I" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1ANL6I" target="_blank">下载</a></td>
+</tr>
+</tbody>
+</table>
+<h1>Google TV Addon</h1>
+<p><a href="http://ask.android-studio.org/?/question/233" target="_blank"><span class="ja-typo-tag tag-rounded tag-blue" style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px;"> 使用说明 </span></a></p>
+<p>这是Google TV Addon，下载并解压后，将解压出的整个文件夹复制或者移动到<code>your sdk 路径/add-ons</code>文件夹，然后打开SDK Manager，打开<code>Tools( 工具)</code>菜单选择<code>Options(选项)</code>菜单项打开Android SDK Manager Setting对话框，点 击<code>Clear Cache(清除缓存)</code>按钮，然后重启Eclipse( 或Android Studio)和SDK Manager。</p>
+<table>
+<thead>
+<tr><th align="left">系统版本</th><th align="center">Windows</th><th align="center">Mac OSX</th><th align="center">Linux</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">android 3.2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1hqIdgjy" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1sjnY7JB" target="_blank">下载</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1sjnY7JB" target="_blank">下载</a></td>
+</tr>
+</tbody>
+</table>
+<h1>Android Framework Source Code</h1>
+<p><a href="http://ask.android-studio.org/?/question/234" target="_blank"><span class="ja-typo-tag tag-rounded tag-blue" style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px;"> 使用说明 </span></a></p>
+<p>这是Android Framework Source Code，下载并解压后，将解压出的整个文件夹复制或者移动到<code>your sdk 路径/sources</code>文件夹下，然后重启Eclipse(或 Android Studio)，这样当你在Eclipse里面按住<code>Ctrl</code>键点击某个系统 类时就可以打开该类的源码文 件查看源码了。</p>
+<table>
+<thead>
+<tr><th align="left">系统版本</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1bnkz3oN" target="_blank">android 4.4W</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1eQcPDBk" target="_blank">android 4.4W</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1gdzOm7D" target="_blank">android 4.4.2</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1c0fB9q4" target="_blank">android 4.3</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1c0s2NoW" target="_blank">android 4.2.2</a></td>
+</tr>
+</tbody>
+</table>
+<h1>Support Library</h1>
+<p>包含supportive、v7和v13，下载解压后将解压出的整个文件夹复制或者移动到<code>your sdk 路径/extras</code>下，然后打开SDK Manager，打开<code>Tools(工 具)</code>菜单选择<code>Options(选项)</code>菜单项打开Android SDK Manager Setting对话框，点击 <code>Clear Cache(清除缓存)</code>按钮，然后重启Eclipse(或 Android Studio)和SDK Manager。</p>
+<table>
+<thead>
+<tr><th align="center">版本号</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="http://pan.baidu.com/s/1jGn6Og2" target="_blank">20</a></td>
+</tr>
+</tbody>
+</table>
+<h1>SDK Samples</h1>
+<p><a href="http://ask.android-studio.org/?/question/235" target="_blank"><span class="ja-typo-tag tag-rounded tag-blue" style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px;"> 使用说明 </span></a></p>
+<p>这是Android SDK自带的示例代码，下载并解压后，将解压出的整个文件夹复制或者移动到<code>your sdk 路径/samples</code>文件夹下，然后重启Eclipse(或Android Studio)。 。</p>
+<table>
+<thead>
+<tr><th align="left">系统版本</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1o6qOBEU" target="_blank">android 21</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1bnzWuGv" target="_blank">android L</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1c05udkk" target="_blank">android 4.4W</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1nt2tOd7" target="_blank">android 4.4.2</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1hq3jWpA" target="_blank">android 4.3</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1kTJYRTP" target="_blank">android 4.2.2</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1c0lbn4c" target="_blank">android 4.1.2</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1CjFK6" target="_blank">android 4.0.3</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1dDtMDGX" target="_blank">android 4.0</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1bnjHsEN" target="_blank">android 3.2</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1eQxiz9C" target="_blank">android 3.1</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1bngt87t" target="_blank">android 3.0</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1pJ0TNth" target="_blank">android 2.3.3</a></td>
+</tr>
+<tr>
+<td align="left"><a href="http://pan.baidu.com/s/1jGHtcEU" target="_blank">android 2.2</a></td>
+</tr>
+</tbody>
+</table>
+<h1>NDK</h1>
+<p><a href="http://ask.android-studio.org/?/question/236" target="_blank"><span class="ja-typo-tag tag-rounded tag-blue" style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px;"> 使用说明 </span></a></p>
+<p>C/C++开发Android应用工具包</p>
+<table>
+<thead>
+<tr><th>Version</th><th>Platform</th><th>Package</th><th>Size (Bytes)</th><th>MD5/SHA1 Checksum</th><th>官方MD5校验码截图</th></tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4">NDK r11b</td>
+<td>Windows 32-bit</td>
+<td align="left"><a href="http://pan.baidu.com/s/1geTDAWb" target="_blank">android-ndk-r11b-windows-x86.zip</a></td>
+<td>728894948</td>
+<td>b42da395440cc1c5dc4eeeb383679331addeb3ea</td>
+<td rowspan="4"><a href="/images/ndk/ndk-r11b.jpg" target="_blank">查看</a></td>
+</tr>
+<tr>
+<td>Windows 64-bit</td>
+<td align="left"><a href="http://pan.baidu.com/s/1c17ze2c" target="_blank">android-ndk-r11b-windows-x86_64.zip</a></td>
+<td>771396549</td>
+<td>480eca1b29cfe73a5b35374730e6a82ca65c2aa6</td>
+</tr>
+<tr>
+<td>Mac OS X 64-bit</td>
+<td align="left"><a href="http://pan.baidu.com/s/1i4P5LRJ" target="_blank">android-ndk-r11b-darwin-x86_64.zip</a></td>
+<td>772411311</td>
+<td>c64fb355fec4da57d329ab45bf0aa29a1aec58dc</td>
+</tr>
+<tr>
+<td>Linux 64-bit (x86)</td>
+<td align="left"><a href="http://pan.baidu.com/s/1hr7WRUs" target="_blank">android-ndk-r11b-linux-x86_64.zip</a></td>
+<td>794138413</td>
+<td>cf0658956945c81d3d3fad5f9a24fa062d4c9d41</td>
+</tr>
+<tr>
+<td rowspan="9">NDK r10e</td>
+<td>Windows 32-bit</td>
+<td align="left"><a href="http://pan.baidu.com/s/1jI2dyHC" target="_blank">android-ndk-r10e-windows-x86.exe</a></td>
+<td>396563176</td>
+<td>1a82445baaf62aec3a46386ab1e5772c</td>
+<td rowspan="9"><a href="/images/ndk/ndk-r10e.jpg" target="_blank">查看</a></td>
+</tr>
+<tr>
+<td>Windows 64-bit</td>
+<td align="left"><a href="http://pan.baidu.com/s/1dFhUPgt" target="_blank">android-ndk-r10e-windows-x86_64.exe</a></td>
+<td>419616132</td>
+<td>8412bb4991a95e08fda50b5a44d95df7</td>
+</tr>
+<tr>
+<td>Mac OS X 64-bit</td>
+<td align="left"><a href="http://pan.baidu.com/s/1dFv1ZcX" target="_blank">android-ndk-r10e-darwin-x86_64.bin</a></td>
+<td>388937326</td>
+<td>2cb8893a5701603519d38a7e04c50e81</td>
+</tr>
+<tr>
+<td>Linux 32-bit (x86)</td>
+<td align="left"><a href="http://pan.baidu.com/s/1mi2FqsC" target="_blank">android-ndk-r10e-linux-x86.bin</a></td>
+<td>394281908</td>
+<td>c3edd3273029da1cbd2f62c48249e978</td>
+</tr>
+<tr>
+<td>Linux 64-bit (x86)</td>
+<td align="left"><a href="http://pan.baidu.com/s/1c2Now4g" target="_blank">android-ndk-r10e-linux-x86_64.bin</a></td>
+<td>401522849</td>
+<td>19af543b068bdb7f27787c2bc69aba7f</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr><th align="center">Platform(32-bit target)</th><th align="center">Package</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Windows 32-bit</td>
+<td align="left"><a href="http://pan.baidu.com/s/1rkX22" target="_blank">android-ndk32-r10-windows-x86.zip</a></td>
+</tr>
+<tr>
+<td align="left">Windows 64-bit</td>
+<td align="left"><a href="http://pan.baidu.com/s/1qW6X3ha" target="_blank">android-ndk32-r10-windows-x86_64.zip</a></td>
+</tr>
+<tr>
+<td align="left">Mac OS X 32-bit</td>
+<td align="left"><a href="http://pan.baidu.com/s/1o6uQnEE" target="_blank">android-ndk32-r10-darwin-x86.tar.bz2</a></td>
+</tr>
+<tr>
+<td align="left">Mac OS X 64-bit</td>
+<td align="left"><a href="http://pan.baidu.com/s/1pJ2VHDx" target="_blank">android-ndk32-r10-darwin-x86_64.tar.bz2</a></td>
+</tr>
+<tr>
+<td align="left">Linux 32-bit (x86)</td>
+<td align="left"><a href="http://pan.baidu.com/s/1qW4V7Da" target="_blank">android-ndk32-r10-linux-x86.tar.bz2</a></td>
+</tr>
+<tr>
+<td align="left">Linux 64-bit (x86)</td>
+<td align="left"><a href="http://pan.baidu.com/s/1gdw0yjh" target="_blank">android-ndk32-r10-linux-x86_64.tar.bz2</a></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr><th align="center">Platform(64-bit target)</th><th align="center">Package</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Windows 32-bit</td>
+<td align="left"><a href="http://pan.baidu.com/s/1ntkcXrN" target="_blank">android-ndk64-r10-windows-x86.zip</a></td>
+</tr>
+<tr>
+<td align="left">Windows 64-bit</td>
+<td align="left"><a href="http://pan.baidu.com/s/1o6oKCWE" target="_blank">android-ndk64-r10-windows-x86_64.zip</a></td>
+</tr>
+<tr>
+<td align="left">Mac OS X 32-bit</td>
+<td align="left"><a href="http://pan.baidu.com/s/1pJjYQIR" target="_blank">android-ndk64-r10-darwin-x86.tar.bz2</a></td>
+</tr>
+<tr>
+<td align="left">Mac OS X 64-bit</td>
+<td align="left"><a href="http://pan.baidu.com/s/1dDIjmcL" target="_blank">android-ndk64-r10-darwin-x86_64.tar.bz2</a></td>
+</tr>
+<tr>
+<td align="left">Linux 32-bit (x86)</td>
+<td align="left"><a href="http://pan.baidu.com/s/18fUsY" target="_blank">android-ndk64-r10-linux-x86.tar.bz2</a></td>
+</tr>
+<tr>
+<td align="left">Linux 64-bit (x86)</td>
+<td align="left"><a href="http://pan.baidu.com/s/1eQ1Sgee" target="_blank">android-ndk64-r10-linux-x86_64.tar.bz2</a></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr><th align="center">版本号</th><th align="center">Windows</th><th align="center">Mac OSX</th><th align="center">Linux</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">ndk-r9d</td>
+<td align="center"><a href="http://pan.baidu.com/s/1mg0ZWs4" target="_blank">32位</a>/<a href="http://pan.baidu.com/s/1o63DHzk" target="_blank">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1jGEBor0" target="_blank">32位</a>/<a href="http://pan.baidu.com/s/1pJ9bw51" target="_blank">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1c0tOFgk" target="_blank">32位</a>/<a href="http://pan.baidu.com/s/1i3kRcQL" target="_blank">64位</a></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr><th align="left">Additional Download(32-, 64-bit)</th><th align="left">Package</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">r10 STL debug info</td>
+<td align="center"><a href="http://pan.baidu.com/s/1kT3dQOf" target="_blank">android-ndk-r10-cxx-stl-libs-with-debug-info.zip</a></td>
+</tr>
+<tr>
+<td align="left">r9 STL debug info</td>
+<td align="center"><a href="http://pan.baidu.com/s/1i3zKhEH" target="_blank">android-ndk-r9-cxx-stl-libs-with-debug-info.zip</a></td>
+</tr>
+</tbody>
+</table>
+<h1>Android L Preview System Image</h1>
+<p><a href="http://ask.android-studio.org/?/question/239" target="_blank"><span class="ja-typo-tag tag-rounded tag-blue" style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px;"> 使用说明 </span></a></p>
+<p>这个是Android L Preview系统的刷机镜像。</p>
+<table>
+<thead>
+<tr><th align="center">设备</th><th align="center">下载</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Nexus 5 (GSM/LTE) "hammerhead"</td>
+<td align="center"><a href="http://pan.baidu.com/s/1bn1YoDD" target="_blank">hammerhead-lpv79-preview-ac1d8a8e.tgz</a></td>
+</tr>
+<tr>
+<td align="center">Nexus 7 (Wifi) "razor"</td>
+<td align="center"><a href="http://pan.baidu.com/s/1gdpEQIZ" target="_blank">razor-lpv79-preview-d0ddf8ce.tgz</a></td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /><br /></p>
+<address>版权声明：版权归原作者所有，这里仅做收集整理，欢迎自由转载-非商用-非衍生-保持署名 | Creative Commons BY-NC-ND 3.0</address><address>地址： http://tools.android-studio.org/index.php/9-tools/109-android-tools-download</address>
+
+
+<div class="item-separator"></div>
+			</div>
+		</div>
+									<!--span class="row-separator"></span-->
+			</div>
+				
+
+</div>
+</div>
+
+                            </div>
+                            
+                                                    </div>
+
+                                            </div>
+
+                    
+                </div>
+
+                            </div>
+            </div>
+            <!-- //CONTENT -->
+            
+        </div>
+                        </div>
+                </div>
+        <!-- //MAIN CONTAINER -->
+
+                <div id="ja-navhelper"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                <div class="ja-breadcrums">
+    
+</div>
+
+<ul class="ja-links">
+        <li class="top"><a href="javascript:scroll(0,0)" title="Back to top">TOP</a></li>
+</ul>
+
+<ul class="no-display">
+    <li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+</ul>                </div>
+                            </div>
+                        </div>
+                        <div id="ja-footer"
+            	class="wrap ">
+                        <div class="wrap-inner1">
+                         <div class="main">
+                           <div class="main-inner1 clearfix">
+                <div class="ja-copyright">
+	<small>版权 &#169; 2018 Android Developer Tools 保留所有权利 .
+
+<script language="javascript" type="text/javascript" src="http://js.users.51.la/15867933.js"></script>
+<noscript><a href="http://www.51.la/?15867933" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/15867933.asp" style="border:none" /></a></noscript>
+
+<!-- Baidu Button BEGIN -->
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?370933871126ddc737e5ca3e9964abd3";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"0","bdPos":"right","bdTop":"100"},"image":{"viewList":["weixin","tsina","qzone","tqq","renren","tieba"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["weixin","tsina","qzone","tqq","renren","tieba"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+
+<!-- Baidu Button END -->
+
+
+</small>
+
+
+</div>                </div>
+                            </div>
+                            </div>
+                            </div>
+            
+</div>
+
+
+
+</body>
+
+</html>
