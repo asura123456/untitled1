@@ -1,6 +1,6 @@
 __author__ = 'feng'
 import requests
-import pandas as pd
+import pandas_train as pd
 
 
 def parse():

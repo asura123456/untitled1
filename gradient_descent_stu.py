@@ -15,6 +15,7 @@ def error_function(theta,x,y):
 
 def gradient_function(theta,x,y):
     diff=np.dot(x,theta)-y
+    print(diff)
     return (1./m)*np.dot(np.transpose(x),diff)
 
 def gradient_descent(x,y,alpha):

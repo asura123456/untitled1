@@ -1,5 +1,5 @@
 import re
-import pandas as pd
+import pandas_train as pd
 import requests
 #s=open('temp.txt','w+')
 

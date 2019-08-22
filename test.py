@@ -1,6 +1,6 @@
 import re
 import time
-import pandas as pd
+import pandas_train as pd
 
 
 ti=time.struct_time(time.localtime())

@@ -1,5 +1,5 @@
 import re
-import pandas as pd
+import pandas_train as pd
 import requests
 
 
@@ -32,4 +32,9 @@ if __name__ == '__main__':
    #     k=k+1
     resuleData='c:\geo_converse.csv'
     df.to_csv(resuleData,encoding='gbk',index=False)
+
+
+
+# info(verbose=True)  shape  dtype isna()  isnull() unique() head(3) tail(3) values dropna(how='any') fillna(value=0,inplace=True) drop_duplicates(keep=lase) replace
+#df.rename(columns={'city':'my_city'})  set_index('id') sort_values(by=['age'])sort_index()
 
