@@ -51,8 +51,6 @@ for i in range(10000):
     dW2+=reg*W2
     dW+=reg*W
     #参数迭代和更新
-
-    # 参数迭
     W+=-step_size*dW
     b+=-step_size*db
     W2 += -step_size * dW2
