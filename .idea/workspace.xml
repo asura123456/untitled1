@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33cf9242-6980-4649-9bf5-1b3071ca1c14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/POI_Search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pd_stu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/untitled1.iml" afterDir="false" />
+    <list default="true" id="33cf9242-6980-4649-9bf5-1b3071ca1c14" name="Default Changelist" comment="modify">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geography_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geography_code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradient_descent_stu.py" beforeDir="false" afterPath="$PROJECT_DIR$/gradient_descent_stu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/经纬度转换(谷歌转高德).py" beforeDir="false" afterPath="$PROJECT_DIR$/经纬度转换(谷歌转高德).py" afterDir="false" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -125,8 +117,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AI_stu_2nd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            <state relative-caret-position="61">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
@@ -201,8 +193,8 @@
         <option value="$PROJECT_DIR$/POI_Search.py" />
         <option value="$PROJECT_DIR$/scrawl_test.py" />
         <option value="$PROJECT_DIR$/AI_stu_1st.py" />
-        <option value="$PROJECT_DIR$/AI_stu_2nd.py" />
         <option value="$PROJECT_DIR$/gradient_descent_stu.py" />
+        <option value="$PROJECT_DIR$/AI_stu_2nd.py" />
       </list>
     </option>
   </component>
@@ -452,7 +444,7 @@
       <workItem from="1564026958277" duration="1897000" />
       <workItem from="1564483001971" duration="18243000" />
       <workItem from="1565074687647" duration="10807000" />
-      <workItem from="1566347506871" duration="17271000" />
+      <workItem from="1566347506871" duration="18776000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1563265068668</created>
@@ -482,11 +474,32 @@
       <option name="project" value="LOCAL" />
       <updated>1566457559677</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="modify">
+      <created>1566462570414</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1566462570414</updated>
+    </task>
+    <task id="LOCAL-00006" summary="modify">
+      <created>1566462654600</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1566462654600</updated>
+    </task>
+    <task id="LOCAL-00007" summary="modify">
+      <created>1566463858059</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1566463858059</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89265000" />
+    <option name="totallyTimeSpent" value="90770000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -811,8 +824,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AI_stu_2nd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        <state relative-caret-position="61">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
