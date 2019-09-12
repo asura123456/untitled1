@@ -47,7 +47,6 @@ class NeuralNetwork:
 
      def train(self,training_inputs,training_outputs):
          self.feed_forward(training_outputs)
-
          pd_errors_wrt_output_neuron_total_net_input=[0]*len(self.output_layer.neurons)
          for o in range(len(self.output_layer.neurons)):
              pd_errors_wrt_output_neuron_total_net_input[o]=self.output_layer.neurons[o].calculate_pd_error_wrt_total_net_input(training_outputs[o])
@@ -124,16 +123,20 @@ class Neuron:
         return 1/(1+math.exp(-total_net_input))
 
     def calculate_pd_error_wrt_total_net_input(self,target_output):
-        return self.calculate_pd_error_wrt_output(target_output)*self.calculate_pd_error_wrt_total_net_input()
+        return self.calculate_pd_error_wrt_output(target_output)*self.calculate_pd_total_net_input_wrt_input()
+
+    def calculate_error(self,target_output):
+        return 0.5*(target_output-self.output)**2
 
     def calculate_pd_error_wrt_output(self,target_output):
         return -(target_output-self.output)
 
     def calculate_pd_total_net_input_wrt_input(self):
-        return self.output(1-self.output)
+        return self.output*(1-self.output)
 
     def calculate_pd_total_net_input_wrt_weight(self,index):
         return self.inputs[index]
+
 
 nn=NeuralNetwork(2,2,2,hidden_layer_weights=[0.15,0.2,0.25,0.3],hidden_layer_bias=0.35,output_layer_weights=[0.4,0.45,0.5,0.55],output_layer_bias=0.6)
 
